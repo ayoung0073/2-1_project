@@ -13,6 +13,8 @@ Linux, C, gcc, vi
 4. 플레이어들은 만들어진 열쇠를 통해 방을 탈출할 수 있습니다.
 5. 방을 탈출하게 되면 플레이어들은 탈출의 MVP를 알게 되고, 게임은 종료됩니다.
 ```
+### 멤버
+[문아영](https://github.com/ayoung0073), [박세원](https://github.com/sw-develop), [박예진](https://github.com/yehey-1030), 박채경
 
 ---
 
